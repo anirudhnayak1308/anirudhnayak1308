@@ -35,7 +35,7 @@ motto: "If you do it twice, automate it."
 
 <div align="center">
 
-[![Resume](https://img.shields.io/badge/📄_View_My_Resume-00d9ff?style=for-the-badge&logoColor=black)](https://github.com/anirudhnayak1308/anirudhnayak1308/raw/main/NAYAK_ANIRUDH_RESUME.pdf)
+[![My Resume Page](https://img.shields.io/badge/🌐%20Resume%20Page-Visit%20Now-58A6FF?style=for-the-badge&logo=github)](https://anirudhnayak1308.github.io)
 
 </div>
 
