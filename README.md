@@ -45,99 +45,55 @@ motto: "If you do it twice, automate it."
 
 ### ☁️ Cloud Platforms
 <p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=flat-square&logo=amazon-s3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EKS-%23FF9900.svg?style=flat-square&logo=amazon-eks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=flat-square&logo=amazon-cloudwatch&logoColor=white"/>
+  <a><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/EC2-%23FF9900.svg?style=flat-square&logo=amazon-ec2&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/S3-%23FF9900.svg?style=flat-square&logo=amazon-s3&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/EKS-%23FF9900.svg?style=flat-square&logo=amazon-eks&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=flat-square&logo=amazon-cloudwatch&logoColor=white"/></a>
 </p>
 
 ### 🐳 Containers & Orchestration
 <p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white"/>
+  <a><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white"/></a>
 </p>
 
 ### 🏗️ Infrastructure as Code
 <p>
-  <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white"/>
+  <a><img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white"/></a>
 </p>
 
 ### 🔁 CI/CD & DevOps
 <p>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white"/>
+  <a><img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white"/></a>
 </p>
 
 ### 🔐 Security
 <p>
-  <img src="https://img.shields.io/badge/IAM-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RBAC-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TLS%2FSSL-%23000000.svg?style=flat-square&logo=letsencrypt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VPC%20Security-%23FF9900.svg?style=flat-square&logo=amazon-vpc&logoColor=white"/>
+  <a><img src="https://img.shields.io/badge/IAM-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/RBAC-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/TLS%2FSSL-%23000000.svg?style=flat-square&logo=letsencrypt&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/VPC%20Security-%23FF9900.svg?style=flat-square&logo=amazon-vpc&logoColor=white"/></a>
 </p>
 
 ### 📊 Monitoring & Observability
 <p>
-  <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=flat-square&logo=amazon-cloudwatch&logoColor=white"/>
+  <a><img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/CloudWatch-%23FF9900.svg?style=flat-square&logo=amazon-cloudwatch&logoColor=white"/></a>
 </p>
 
 ### 💻 Languages & Tools
 <p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
+  <a><img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54"/></a>
+  <a><img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🐳 [docker-microservices-stack](https://github.com/anirudhnayak1308/docker-microservices-stack)
-> Production-ready multi-container application using Docker Compose with Nginx reverse proxy, auto-SSL, health checks, and centralized logging via ELK stack.
-
-`Docker` `Docker Compose` `Nginx` `ELK` `Python` `Redis`
-
----
-
-### ☸️ [kubernetes-production-cluster](https://github.com/anirudhnayak1308/kubernetes-production-cluster)
-> Full HA Kubernetes cluster setup with RBAC, Network Policies, Horizontal Pod Autoscaler, Ingress controllers, and GitOps deployment via ArgoCD.
-
-`Kubernetes` `Helm` `ArgoCD` `Prometheus` `Grafana` `Cert-Manager`
-
----
-
-### 🏗️ [terraform-aws-infrastructure](https://github.com/anirudhnayak1308/terraform-aws-infrastructure)
-> Modular Terraform codebase provisioning a complete AWS environment: VPC, EKS, RDS, S3, IAM roles, CloudWatch alarms — all with remote state in S3 + DynamoDB locking.
-
-`Terraform` `AWS` `EKS` `VPC` `RDS` `S3` `IAM`
-
----
-
-### 🔁 [jenkins-cicd-pipeline](https://github.com/anirudhnayak1308/jenkins-cicd-pipeline)
-> End-to-end Jenkins pipeline with automated testing, Docker image build & push to ECR, Kubernetes rolling deployment, Slack notifications, and rollback logic.
-
-`Jenkins` `Docker` `Kubernetes` `AWS ECR` `Groovy` `SonarQube`
-
----
-
-### 🚀 [gitops-argocd-platform](https://github.com/anirudhnayak1308/gitops-argocd-platform)
-> GitOps platform using ArgoCD + Helm for declarative continuous delivery. Includes app-of-apps pattern, multi-environment promotion, and sealed secrets management.
-
-`ArgoCD` `Helm` `GitOps` `Sealed Secrets` `Kustomize`
-
----
-
-### 📊 [monitoring-observability-stack](https://github.com/anirudhnayak1308/monitoring-observability-stack)
-> Complete observability setup with Prometheus, Grafana dashboards, Loki log aggregation, and Alertmanager — deployed via Helm on Kubernetes.
-
-`Prometheus` `Grafana` `Loki` `Alertmanager` `Helm` `Kubernetes`
 
 ---
 
@@ -150,20 +106,6 @@ motto: "If you do it twice, automate it."
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=anirudhnayak1308&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/anirudhnayak1308/anirudhnayak1308/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
 ---
 
 ## 📜 Certifications
@@ -171,9 +113,6 @@ motto: "If you do it twice, automate it."
 | Badge | Certification |
 |-------|--------------|
 | ☁️ | AWS Certified Cloud Practitioner |
-| ☁️ | AWS Certified Solutions Architect *(in progress)* |
-| ⎈ | Certified Kubernetes Administrator (CKA) *(in progress)* |
-| 🏗️ | HashiCorp Terraform Associate *(in progress)* |
 
 ---
 
