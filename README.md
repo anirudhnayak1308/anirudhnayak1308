@@ -18,8 +18,8 @@ experience:
   - DevOps Intern @ Namitus Technologies (Feb 2026 - Present)
   - Product Support Engineer @ Ola Electric (Feb 2022 - May 2023)
 education:
-  - "M.S. Management Information Systems — Cleveland State University"
-  - "B.E. Information Science — Visvesvaraya Technological University"
+  - "M.S. Management Information Systems — Cleveland State University | 2025"
+  - "B.E. Information Science — Visvesvaraya Technological University | 2021"
 focus:
   - Infrastructure as Code (Terraform)
   - Container Orchestration (Docker, Kubernetes)
